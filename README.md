@@ -20,3 +20,6 @@ Any tex editor can be a LaTex editor. But the recomended editors are
             - **Installing:** `sudo apt install texstudio`
 - *Texmaker:* https://www.xm1math.net/texmaker/download.html
 - **Cloud:** Use overleaf
+## In this repo:
+- [Basic latex enviroment syntax](https://github.com/mezhagan/LaTex-classnotes-template/blob/9b8424bd689d6a9dc96a902d2e34165680ef4227/latex_envs_templates/latex_envs_templates.tex) including lists, tables, matrices, coustom theorem formats like problem, example and definition. [The pdf](https://github.com/mezhagan/LaTex-classnotes-template/blob/9b8424bd689d6a9dc96a902d2e34165680ef4227/latex_envs_templates/latex_envs_templates.pdf)
+- [Basic document structure](https://github.com/mezhagan/LaTex-classnotes-template/blob/9b8424bd689d6a9dc96a902d2e34165680ef4227/dummy_notes_skeleton/notes_structure_dummy.tex), this introduces basic document sectioning (or) structuring. [The pdf](https://github.com/mezhagan/LaTex-classnotes-template/blob/9b8424bd689d6a9dc96a902d2e34165680ef4227/dummy_notes_skeleton/notes_structure_dummy.pdf)
