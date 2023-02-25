@@ -1,6 +1,6 @@
 # Instructions
 ## Installing LaTex distribution:
-- **Windows:** https://www.tug.org/texlive/acquire-netinstall.html
+- **Windows:** 
     - Download https://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe
     - Execute the newly-downloaded install-tl-windows.exe.
     - Change settings as desired and install.
